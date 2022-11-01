@@ -1,1 +1,3 @@
-# termius
+# termius it's my beta terminal
+#### 4 CLIs 
+#### The real terminal soon...
